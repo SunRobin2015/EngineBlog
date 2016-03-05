@@ -1,0 +1,12 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 3/4/2016 8:59:46 PM
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 3/4/2016 8:59:46 PM
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 3/4/2016 9:00:21 PM
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/Tag cloud/widget.cshtml: The file '/Custom/Widgets/Tag cloud/widget.cshtml' does not exist.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 3/4/2016 9:00:21 PM
+RazorHelper, ParseRazor, VirtualPath: /Custom/Widgets/RecentPosts/widget.cshtml: The file '/Custom/Widgets/RecentPosts/widget.cshtml' does not exist.
