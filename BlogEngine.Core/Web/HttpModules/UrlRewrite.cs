@@ -76,6 +76,7 @@
                     context.RewritePath(npath);
                     return;
                 }
+
             }
 
             if (Utils.IsCurrentRequestForHomepage)
